@@ -1,5 +1,4 @@
-﻿using AuctionService.Data;
-using Contracts;
+﻿using Contracts;
 using MassTransit;
 using MongoDB.Entities;
 using SearchService.Models;
